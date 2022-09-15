@@ -1,0 +1,13 @@
+/* your styles go here */
+.msgFormEnreg {
+    color: red !important;
+    font-size : 11px !important;
+}
+.navbar-right {
+    float: right !important;
+    margin-left: 100px;
+}
+.logo {
+    width: 200px;
+     height: 100%;
+}
