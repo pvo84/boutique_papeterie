@@ -14,6 +14,7 @@ admin can manage stock (add, edit or delete items).
 - PHP;
 - Data base MySQL;
 - Apache;
+- JavaScript;
 - HTML5;
 - CSS3;
 - Boostrap. 
