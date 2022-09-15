@@ -1,6 +1,10 @@
 # boutique_papeterie
- Multi page e-commerce web application for stationary
-It's a project that I created as an assignement at college: 
+Multi page e-commerce web application for stationary.
+
+It's a project that I created as an assignement at college.
+
+Project description
+
 Client-Server communication with PHP using a storage of data by a MySQL database (with a CRUD). 
 
 Creating a user and admin profiles with different fonctions: 
